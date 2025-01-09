@@ -1,0 +1,16 @@
+
+#### .gitignore
+
+```plaintext
+# Arduino
+*.ino.*
+*.elf
+*.hex
+*.bin
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+```SMART-ACCESS-LOCK-main/README.md
